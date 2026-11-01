@@ -47,7 +47,7 @@ To test any of the applications locally, clone this master repository and instal
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR-USERNAME/OIBSIP-Python-Internship.git](https://github.com/YOUR-USERNAME/OIBSIP-Python-Internship.git)
+git clone [https://github.com/muhammadsaleem67/OIBSIP-Python-Internship.git](https://github.com/muhammadsaleem67/OIBSIP-Python-Internship.git)
 cd OIBSIP-Python-Internship
 
 # 2. Install all required dependencies
