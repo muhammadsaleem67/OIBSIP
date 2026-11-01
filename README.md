@@ -6,7 +6,7 @@ Welcome to my master repository for the **Oasis Infobyte (OIBSIP) Python Develop
 
 ## 👨‍💻 About the Developer
 **Muhammad Saleem (Kamran)**
-* **Role:** Software Engineer & Data Analyst
+* **Role:** AI Engineer & Data Analyst
 * **University:** Sindh Agriculture University (Class of 2028)
 * **Focus:** Data-driven web applications, bioinformatics, and scalable business platforms.
 
